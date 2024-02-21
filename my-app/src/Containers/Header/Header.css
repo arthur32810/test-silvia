@@ -1,0 +1,27 @@
+.navbar-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar-logo {
+    display: flex;
+    width: 150px;
+}
+
+.navlink-content {
+    display: flex;
+    margin: 0;
+    align-items: center;
+
+}
+
+.navlink-containers {
+    list-style-type: none;
+    font-size: 18px;
+    padding: 0 30px;
+    transition: transform .4s;
+}
+
+.navlink-containers:hover {
+    transform: scale(1.2);
+}
