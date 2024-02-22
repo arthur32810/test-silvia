@@ -25,3 +25,24 @@
 .navlink-containers:hover {
     transform: scale(1.2);
 }
+
+@media screen and (max-width: 700px) {
+    .navbar-logo {
+        margin: auto;
+    }
+
+    .navbar-content {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .navlink-content {
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+
+    .navlink-containers {
+        font-size: 16px;
+        padding: 0 10px;
+    }
+}
