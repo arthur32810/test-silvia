@@ -1,0 +1,14 @@
+.work-content-img {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+
+.work-img {
+    width: 100%;
+    max-width: 460px;
+    height: 250px;
+    border-radius: 10px;
+    object-fit: cover;
+    box-shadow: 0px 0px 40px #5A4E70;
+}

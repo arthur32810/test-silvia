@@ -1,0 +1,17 @@
+.works-container-box {
+    display: flex;
+    justify-content: center;
+}
+
+.works-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px
+}
+
+.works-content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    max-width: 460px;
+}
