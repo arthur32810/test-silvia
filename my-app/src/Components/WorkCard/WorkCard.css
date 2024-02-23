@@ -1,3 +1,20 @@
+.work-container {
+    position: relative;
+}
+
+.work-container .work-opacity {
+    border-radius: 10px;
+    height: 90%;
+    position: absolute;
+    width: 100%;
+    background: linear-gradient(0, #5A4E70 -8%, transparent 210%);
+    z-index: 2;
+}
+
+.work-container .work-opacity:hover {
+    background: linear-gradient(0, #9C7ED1 -8%, transparent 210%);
+}
+
 .work-content-img {
     height: 250px;
     display: flex;
@@ -10,5 +27,20 @@
     height: 250px;
     border-radius: 10px;
     object-fit: cover;
-    box-shadow: 0px 0px 40px #5A4E70;
+    box-shadow: 0px 0px 10px #5A4E70;
+    position: relative;
+}
+
+.work-content-title {
+    position: relative;
+    z-index: 2;
+}
+
+.work-title {
+    position: relative;
+    top: -129px;
+    display: flex;
+    justify-content: center;
+    z-index: 1;
+    color: white;
 }

@@ -16,10 +16,10 @@ function Header() {
                         <a href='#a-propos'>A propos</a>
                     </li>
                     <li className='navlink-containers'>
-                        <a href="#nos-realisations">Mes projets</a>
+                        <a href="#mes-projets">Mes projets</a>
                     </li>
                     <li className='navlink-containers'>
-                        <a href="#notre-equipe">contact</a>
+                        <a href="#contact">contact</a>
                     </li>
                 </ul>
             </nav>

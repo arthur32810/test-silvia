@@ -1,6 +1,7 @@
 .works-container-box {
     display: flex;
     justify-content: center;
+    margin: 130px 0
 }
 
 .works-container {

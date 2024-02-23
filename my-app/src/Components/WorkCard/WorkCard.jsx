@@ -4,9 +4,10 @@ import './WorkCard.css';
 
 function WorkCard({ work }) {
     return (
-        <div>
+        <div className='work-container'>
             <Link to={`/Work/${work.id}`} className='work-file' key={work.id}>
                 <div className='work-content-img'>
+                    <div className='work-opacity'></div>
                     <img className='work-img' src={work.cover} alt={work.title}></img>
                 </div>
                 <div className='work-content-title'>
