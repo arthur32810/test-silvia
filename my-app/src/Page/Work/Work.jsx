@@ -2,7 +2,7 @@ import data from '../../Data/data.json';
 import Header from '../../Containers/Header/Header';
 import Footer from '../../Containers/Footer/Footer';
 import WorkSlide from '../../Components/WorkSlide/WorkSlide';
-// import InfoWorks from '../../Components/InfoWorks/InfoWorks';
+import InfoWorks from '../../Components/InfoWorks/InfoWorks';
 
 function Work() {
 
@@ -10,7 +10,7 @@ function Work() {
         <>
             <Header />
             <WorkSlide />
-            {/* <InfoWorks /> */}
+            <InfoWorks />
             <Footer />
         </>
     )
