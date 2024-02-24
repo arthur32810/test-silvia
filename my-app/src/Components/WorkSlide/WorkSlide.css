@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 45px 25px;
+    margin: 45px 30px;
 }
 
 .workSlide-pictures img {
@@ -53,4 +53,24 @@
     top: 93px;
     color: #5A4E70;
     font-size: 20px;
+}
+
+@media screen and (max-width: 700px) {
+    .workSlide-pictures {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 30px;
+    }
+
+    .workSlide-pictures img.visible {
+        height: 320px;
+    }
+
+    .slide-container .slide-arrow {
+        bottom: 20px;
+        width: 50px;
+
+    }
+
 }

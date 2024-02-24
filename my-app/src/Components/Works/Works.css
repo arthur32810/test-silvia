@@ -16,3 +16,16 @@
     flex-direction: column;
     max-width: 460px;
 }
+
+@media screen and (max-width: 700px) {
+    .works-container-box {
+        margin: 30px 0
+    }
+
+    .works-container {
+        display: flex;
+        flex-direction: column;
+        margin: 0 30px;
+    }
+
+}
