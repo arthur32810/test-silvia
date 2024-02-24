@@ -2,6 +2,7 @@ footer {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    padding-bottom: 20px;
 }
 
 .footer-content {

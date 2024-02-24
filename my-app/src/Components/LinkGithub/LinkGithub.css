@@ -9,10 +9,12 @@
     align-items: center;
     color: white;
     box-shadow: 0px 0px 10px #9C7ED1;
+    transition: transform .4s
 }
 
 .info-link:hover {
     background-color: #9C7ED1;
     color: white;
     box-shadow: 0px 0px 10px #5A4E70;
+    transform: scale(1.2);
 }
