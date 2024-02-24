@@ -1,0 +1,36 @@
+.info-container {
+    margin: 45px 30px;
+}
+
+.info-title {
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+}
+
+.info-tags-content,
+.info-link-content {
+    margin: 40px 0;
+    display: flex;
+    justify-content: center;
+    list-style-type: none
+}
+
+.info-tags {
+    background-color: #9C7ED1;
+    padding: 10px;
+    margin: 0 20px;
+    border-radius: 20px;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    box-shadow: 0px 0px 10px #5A4E70;
+}
+
+.info-description {
+    box-shadow: 0px 0px 10px #9C7ED1;
+    border-radius: 10px;
+    padding: 20px;
+}

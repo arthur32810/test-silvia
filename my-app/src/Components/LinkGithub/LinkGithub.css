@@ -1,0 +1,18 @@
+.info-link {
+    background-color: #5A4E70;
+    padding: 12px;
+    margin: 0 20px;
+    border-radius: 20px;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    box-shadow: 0px 0px 10px #9C7ED1;
+}
+
+.info-link:hover {
+    background-color: #9C7ED1;
+    color: white;
+    box-shadow: 0px 0px 10px #5A4E70;
+}

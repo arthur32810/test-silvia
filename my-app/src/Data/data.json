@@ -12,7 +12,8 @@
         "tags": [
             "HTML",
             "CSS"
-        ]
+        ],
+        "link": "https://github.com/SilviaBrundu/Booki.git"
     },
     {
         "id": "projet2",
@@ -27,7 +28,8 @@
         "tags": [
             "HTML",
             "SASS"
-        ]
+        ],
+        "link": "https://github.com/SilviaBrundu/ohMyFood.git"
     },
     {
         "id": "projet3",
@@ -39,8 +41,10 @@
         ],
         "description": "Développer la page de présentation des travaux de l'architecte (à partir du HTML fourni),la page de connexion de l'administrateur du site (le client) et la modale permettant d'uploader de nouveaux médias, apprendre a gérer les appels API",
         "tags": [
-            "JavaScript"
-        ]
+            "JavaScript",
+            "CSS"
+        ],
+        "link": "https://github.com/SilviaBrundu/Portfolio-architecte-sophie-bluel.git"
     },
     {
         "id": "projet4",
@@ -52,8 +56,10 @@
         ],
         "description": "Développer l’ensemble de l’application, les composants React, les routes React Router",
         "tags": [
-            "React"
-        ]
+            "React",
+            "SASS"
+        ],
+        "link": "https://github.com/SilviaBrundu/Kasa.git"
     },
     {
         "id": "projet5",
@@ -66,7 +72,9 @@
         ],
         "description": "Créer l’application web complète et responsive avec React. Utiliser Redux pour gérer le state de l'ensemble de l'application. Routes API proposées pour les manipulations sur les transactions, en suivant les directives de Swagger. ",
         "tags": [
-            "React"
-        ]
+            "React",
+            "CSS"
+        ],
+        "link": "https://github.com/SilviaBrundu/ArgentBlankP11.git"
     }
 ]
