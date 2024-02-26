@@ -4,9 +4,9 @@
         "title": "Booki",
         "cover": "https://i.goopics.net/77ezel.png",
         "pictures": [
-            "https://i.goopics.net/77ezel.png",
-            "https://i.goopics.net/2gg4uy.png",
-            "https://i.goopics.net/qe6sfj.png"
+            "https://i.goopics.net/w7e2id.jpg",
+            "https://i.goopics.net/htamss.jpg",
+            "https://i.goopics.net/mv4dqm.jpg"
         ],
         "description": "Développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix en intégrant l'interface du site avec du code HTML et CSS",
         "tags": [
@@ -20,9 +20,9 @@
         "title": "Ohmyfood",
         "cover": "https://i.goopics.net/4rnbce.png",
         "pictures": [
-            "https://i.goopics.net/4rnbce.png",
-            "https://i.goopics.net/y2ov71.png",
-            "https://i.goopics.net/3unp7v.png"
+            "https://i.goopics.net/w2znx6.jpg",
+            "https://i.goopics.net/e6v25n.jpg",
+            "https://i.goopics.net/tnts3o.jpg"
         ],
         "description": "Développer un site “mobile first” qui répertorie les menus de restaurants gastronomiques en utilisant SASS et animation dynamique.",
         "tags": [
@@ -36,8 +36,9 @@
         "title": "Sophie Bluel",
         "cover": "https://i.goopics.net/7v79di.png",
         "pictures": [
-            "https://i.goopics.net/7v79di.png",
-            "https://i.goopics.net/5lm6kv.png"
+            "https://i.goopics.net/ws572h.jpg",
+            "https://i.goopics.net/179wge.jpg",
+            "https://i.goopics.net/va3670.jpg"
         ],
         "description": "Développer la page de présentation des travaux de l'architecte (à partir du HTML fourni),la page de connexion de l'administrateur du site (le client) et la modale permettant d'uploader de nouveaux médias, apprendre a gérer les appels API",
         "tags": [
@@ -51,8 +52,9 @@
         "title": "Kasa",
         "cover": "https://i.goopics.net/gxje70.png",
         "pictures": [
-            "https://i.goopics.net/gxje70.png",
-            "https://i.goopics.net/trq7qz.png"
+            "https://i.goopics.net/mrq3xp.jpg",
+            "https://i.goopics.net/vhxns9.jpg",
+            "https://i.goopics.net/bbkqtx.jpg"
         ],
         "description": "Développer l’ensemble de l’application, les composants React, les routes React Router",
         "tags": [
@@ -66,9 +68,9 @@
         "title": "ArgentBank",
         "cover": "https://i.goopics.net/e8wo5v.png",
         "pictures": [
-            "https://i.goopics.net/e8wo5v.png",
-            "https://i.goopics.net/6wxtko.png",
-            "https://i.goopics.net/a0ioe8.png"
+            "https://i.goopics.net/x7cdd1.jpg",
+            "https://i.goopics.net/c0jmdn.jpg",
+            "https://i.goopics.net/nkgxxy.jpg"
         ],
         "description": "Créer l’application web complète et responsive avec React. Utiliser Redux pour gérer le state de l'ensemble de l'application. Routes API proposées pour les manipulations sur les transactions, en suivant les directives de Swagger. ",
         "tags": [

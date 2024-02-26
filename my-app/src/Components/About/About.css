@@ -9,6 +9,12 @@
     background: radial-gradient(circle, rgba(211, 186, 255, 1) 0%, rgba(126, 110, 156, 1) 100%);
 }
 
+.about-photo-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .about-photo-profil {
     width: 100%;
     max-width: 300px;
@@ -25,6 +31,9 @@
     flex-direction: column;
     text-align: center;
     margin: 30px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(211, 186, 255, 1);
 }
 
 .about-text-content p {

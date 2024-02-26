@@ -17,7 +17,7 @@ function InfoWorks() {
     const { title, tags, description, link } = data.find((information) => information.id === id)
 
     return (
-        <div className='info-container'>
+        <section className='info-container'>
             <div className='info-1'>
                 <TitleWorks title={title} />
             </div>
@@ -31,7 +31,7 @@ function InfoWorks() {
                 <LinkGithub link={link} />
 
             </div>
-        </div>
+        </section>
     )
 }
 

@@ -1,11 +1,14 @@
 .info-container {
     margin: 45px 30px;
+    box-shadow: 0px 0px 10px #5A4E70;
+    border-radius: 15px;
 }
 
 .info-title {
     font-weight: 900;
     display: flex;
     justify-content: center;
+    padding-top: 30px;
 }
 
 .info-tags-content,
@@ -35,4 +38,5 @@
     padding: 20px;
     display: flex;
     justify-content: center;
+    margin: 0 30px
 }

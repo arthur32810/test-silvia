@@ -3,7 +3,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 130px 0
+    margin: 130px 30px;
+    box-shadow: 0px 0px 10px #5A4E70;
+    border-radius: 15px;
 }
 
 .work-container-title {
@@ -11,7 +13,7 @@
     flex-direction: column;
     text-align: center;
     font-size: 30px;
-    margin-bottom: 30px;
+    margin: 30px;
 }
 
 .works-container {
@@ -30,7 +32,7 @@
 
 @media screen and (max-width: 700px) {
     .works-container-box {
-        margin: 30px 0
+        margin: 30px
     }
 
     .works-container {

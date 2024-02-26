@@ -10,8 +10,10 @@ function Home() {
     return (
         <>
             <Header />
-            <About />
-            <Works />
+            <main>
+                <About />
+                <Works />
+            </main>
             <Footer />
         </>
     )

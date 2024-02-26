@@ -19,7 +19,7 @@ function WorkSlide() {
     //  * % pictures.length permet d'enchainer les slides en boucles. 
 
     return (
-        <div className='workSlide-container'>
+        <section className='workSlide-container'>
             <div className='workSlide-pictures'>
 
                 {pictures.map((picture, index) => (
@@ -37,7 +37,7 @@ function WorkSlide() {
                 )}
 
             </div>
-        </div>
+        </section>
     )
 }
 

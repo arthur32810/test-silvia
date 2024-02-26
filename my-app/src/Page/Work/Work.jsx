@@ -18,8 +18,10 @@ function Work() {
     return (
         <>
             <Header />
-            <WorkSlide />
-            <InfoWorks />
+            <main>
+                <WorkSlide />
+                <InfoWorks />
+            </main>
             <Footer />
         </>
     )
