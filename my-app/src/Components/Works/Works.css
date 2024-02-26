@@ -1,13 +1,24 @@
 .works-container-box {
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     margin: 130px 0
+}
+
+.work-container-title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
 }
 
 .works-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 30px
+    gap: 30px;
+    margin: 0 30px;
 }
 
 .works-content {

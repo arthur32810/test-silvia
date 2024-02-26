@@ -7,7 +7,7 @@ import phone from '../../img/Icone/phone.png'
 function Contact() {
     return (
         <>
-            <h3 className='contact-title'> Contact </h3>
+            <h2 className='contact-title' id='contact'> Contact </h2>
             <div className='contact-content'>
                 <div className='contact-containers'>
                     <img
