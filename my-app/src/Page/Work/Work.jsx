@@ -1,6 +1,4 @@
 import data from '../../Data/data.json';
-import Header from '../../Containers/Header/Header';
-import Footer from '../../Containers/Footer/Footer';
 import WorkSlide from '../../Components/WorkSlide/WorkSlide';
 import InfoWorks from '../../Components/InfoWorks/InfoWorks';
 import { useParams } from 'react-router-dom';
@@ -17,12 +15,10 @@ function Work() {
 
     return (
         <>
-            <Header />
             <main>
                 <WorkSlide />
                 <InfoWorks />
             </main>
-            <Footer />
         </>
     )
 }
