@@ -44,3 +44,21 @@
     z-index: 1;
     color: white;
 }
+
+@media screen and (max-width: 700px) {
+    .work-title {
+        top: -95px;
+    }
+
+    .work-content-img {
+        height: 155px;
+    }
+
+    .work-img {
+        height: 155px;
+    }
+
+    .work-container .work-opacity {
+        height: 85%;
+    }
+}
