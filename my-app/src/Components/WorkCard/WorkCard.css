@@ -2,6 +2,17 @@
     position: relative;
 }
 
+.work-content-img {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    transition: transform .4s;
+}
+
+.work-content-img:hover {
+    transform: scale(1.03);
+}
+
 .work-container .work-opacity {
     border-radius: 10px;
     height: 100%;
@@ -23,12 +34,6 @@
     display: flex;
     justify-content: center;
     color: white;
-}
-
-.work-content-img {
-    height: 250px;
-    display: flex;
-    justify-content: center;
 }
 
 .work-img {
