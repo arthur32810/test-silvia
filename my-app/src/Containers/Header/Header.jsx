@@ -22,7 +22,7 @@ function Header() {
                         <a href="/#mes-projets">Mes projets</a>
                     </li>
                     <li className='navlink-containers'>
-                        <a href="#contact">contact</a>
+                        <a href="#contact">Contact</a>
                     </li>
                 </ul>
             </nav>

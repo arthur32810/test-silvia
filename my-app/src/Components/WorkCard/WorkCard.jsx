@@ -7,11 +7,10 @@ function WorkCard({ work }) {
         <div className='work-container'>
             <Link to={`/Work/${work.id}`} className='work-file' key={work.id}>
                 <div className='work-content-img'>
-                    <div className='work-opacity'></div>
+                    <div className='work-opacity'>
+                        <h2 className='work-title'>{work.title}</h2>
+                    </div>
                     <img className='work-img' src={work.cover} alt={work.title}></img>
-                </div>
-                <div className='work-content-title'>
-                    <h2 className='work-title'>{work.title}</h2>
                 </div>
             </Link>
         </div>
