@@ -21,21 +21,16 @@ function WorkSlide() {
     return (
         <section className='workSlide-container'>
             <div className='workSlide-pictures'>
-
                 {pictures.map((picture, index) => (
                     <img key={index} src={picture} alt='projet' className={index === slide ? 'visible' : ''} />
                 ))}
-
                 {pictures.length > 1 && (
-                    <div className='slide-container' >
-                        <div className='slide-content'>
-                            <img className='slide-arrow slide-arrow-left' src={arrowLeft} alt='gauche' onClick={() => changeSlide(-1)}></img>
-                            <img className='slide-arrow slide-arrow-right' src={arrowRight} alt='droite' onClick={() => changeSlide(1)}></img>
-                        </div>
+                    <div className='slide-content'>
+                        <img className='slide-arrow slide-arrow-left' src={arrowLeft} alt='gauche' onClick={() => changeSlide(-1)}></img>
+                        <img className='slide-arrow slide-arrow-right' src={arrowRight} alt='droite' onClick={() => changeSlide(1)}></img>
                         <p className='slide-number-img'>{slide + 1}/{pictures.length}</p>
                     </div>
                 )}
-
             </div>
         </section>
     )
