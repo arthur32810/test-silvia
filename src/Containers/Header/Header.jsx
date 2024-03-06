@@ -2,6 +2,7 @@ import './Header.css';
 import React from 'react';
 import logo from '../../img/Logo/silvia1.png';
 import { NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function Header() {
     return (
@@ -16,13 +17,13 @@ function Header() {
                 </NavLink>
                 <ul className='navlink-content'>
                     <li className='navlink-containers'>
-                        <a href='/#a-propos'>A propos</a>
+                        < Link to='/#a-propos'>A propos</Link>
                     </li>
                     <li className='navlink-containers'>
-                        <a href="/#mes-projets">Mes projets</a>
+                        < Link to="/#mes-projets">Mes projets</Link>
                     </li>
                     <li className='navlink-containers'>
-                        <a href="#contact">Contact</a>
+                        < Link to="#contact">Contact</Link>
                     </li>
                 </ul>
             </nav>

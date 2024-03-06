@@ -4,11 +4,14 @@ import Work from '../Page/Work/Work';
 import Header from '../Containers/Header/Header';
 import Footer from '../Containers/Footer/Footer';
 import PageNotFound from '../Page/PageNotFound/PageNotFound';
+import ScrollToHashElement from "../Components/ScrollToHashElement/ScrollToHashElement";
+
 
 function App() {
     return (
         <div className='body-container'>
             <BrowserRouter>
+                <ScrollToHashElement />
                 <Header />
                 <Routes>
                     <Route path='/' element={<Home />} />
