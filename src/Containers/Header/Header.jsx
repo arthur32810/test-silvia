@@ -16,7 +16,7 @@ function Header() {
                 </NavLink>
                 <ul className='navlink-content'>
                     <li className='navlink-containers'>
-                        <a href='#a-propos'>A propos</a>
+                        <a href='/#a-propos'>A propos</a>
                     </li>
                     <li className='navlink-containers'>
                         <a href="/#mes-projets">Mes projets</a>
