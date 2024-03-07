@@ -1,6 +1,6 @@
 import './Header.css';
 import React from 'react';
-import logo from '../../img/Logo/silvia1.png';
+import logo from '../../img/Logo/silvia1.webp';
 import { NavLink } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 

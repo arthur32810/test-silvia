@@ -1,6 +1,6 @@
 import React from 'react';
-import arrowLeft from '../../img/Icone/arrow_left.png';
-import arrowRight from '../../img/Icone/arrow_right.png';
+import arrowLeft from '../../img/Icone/arrow_left.webp';
+import arrowRight from '../../img/Icone/arrow_right.webp';
 import { useState } from 'react';
 import data from '../../Data/data.json';
 import { useParams } from 'react-router-dom';

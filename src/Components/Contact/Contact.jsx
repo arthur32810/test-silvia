@@ -1,7 +1,7 @@
 import React from 'react';
 import './Contact.css';
-import mail from '../../img/Icone/mail.png'
-import phone from '../../img/Icone/phone.png'
+import mail from '../../img/Icone/mail.webp'
+import phone from '../../img/Icone/phone.webp'
 
 
 function Contact() {
