@@ -1,4 +1,5 @@
 import './Tags.css';
+import React from 'react';
 
 function Tags({ tags }) {
     const listTags = tags.map((tags, index) =>

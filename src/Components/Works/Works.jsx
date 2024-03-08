@@ -1,5 +1,6 @@
 import data from '../../Data/data.json';
 import WorkCard from '../WorkCard/WorkCard';
+import React from 'react';
 import './Works.css';
 
 

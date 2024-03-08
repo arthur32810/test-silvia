@@ -1,4 +1,5 @@
 import './DescriptionWork.css';
+import React from 'react'
 
 function DescriptionWork({ description }) {
 

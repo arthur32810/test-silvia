@@ -3,6 +3,7 @@ import WorkSlide from '../../Components/WorkSlide/WorkSlide';
 import InfoWorks from '../../Components/InfoWorks/InfoWorks';
 import { useParams } from 'react-router-dom';
 import { Navigate } from 'react-router-dom';
+import React from 'react';
 
 function Work() {
     const { id } = useParams();
