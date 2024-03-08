@@ -2,7 +2,7 @@
     {
         "id": "projet1",
         "title": "Booki",
-        "cover": "https://i.goopics.net/77ezel.png",
+        "cover": "/img/projets/booki/booki1.webp",
         "pictures": [
             "/img/projets/booki/booki1.webp",
             "/img/projets/booki/booki2.webp",
@@ -18,7 +18,7 @@
     {
         "id": "projet2",
         "title": "Ohmyfood",
-        "cover": "https://i.goopics.net/4rnbce.png",
+        "cover": "/img/projets/ohmyfood/ohmyfood1.webp",
         "pictures": [
             "/img/projets/ohmyfood/ohmyfood1.webp",
             "/img/projets/ohmyfood/ohmyfood2.webp",
@@ -34,7 +34,7 @@
     {
         "id": "projet3",
         "title": "Sophie Bluel",
-        "cover": "https://i.goopics.net/7v79di.png",
+        "cover": "/img/projets/sophiebluel/sophiebluel1.webp",
         "pictures": [
             "/img/projets/sophiebluel/sophiebluel1.webp",
             "/img/projets/sophiebluel/sophiebluel2.webp",
@@ -50,7 +50,7 @@
     {
         "id": "projet4",
         "title": "Kasa",
-        "cover": "https://i.goopics.net/gxje70.png",
+        "cover": "/img/projets/kasa/kasa1.webp",
         "pictures": [
             "/img/projets/kasa/kasa1.webp",
             "/img/projets/kasa/kasa2.webp",
@@ -66,7 +66,7 @@
     {
         "id": "projet5",
         "title": "ArgentBank",
-        "cover": "https://i.goopics.net/e8wo5v.png",
+        "cover": "/img/projets/argentbank/argentBank1.webp",
         "pictures": [
             "/img/projets/argentbank/argentBank1.webp",
             "/img/projets/argentbank/argentBank2.webp",

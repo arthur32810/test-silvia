@@ -6,6 +6,7 @@
 .navbar-logo {
     display: flex;
     width: 150px;
+    height: 100%;
 }
 
 .navlink-content {

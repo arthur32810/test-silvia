@@ -17,6 +17,7 @@
 
 .about-photo-profil {
     width: 100%;
+    height: 100%;
     max-width: 300px;
     margin: 30px;
     border-radius: 40px;
@@ -49,11 +50,13 @@
 
 .about-logo-dev {
     width: 70px;
+    height: 100%;
     margin: auto;
 }
 
 .css {
     width: 54px;
+    height: 100%;
 }
 
 @media screen and (max-width: 700px) {
