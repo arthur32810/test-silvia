@@ -1,4 +1,4 @@
-import { NavLink } from "react-router-dom"
+import { Link } from "react-router-dom"
 import './Error.css';
 
 
@@ -12,9 +12,9 @@ function Error() {
                 <p className='error-text'>Oups! La page que vous demandez n'existe pas.</p>
             </div>
             <div className='error-container-link'>
-                <NavLink to='/' className='error-link'>
+                <Link to='/' className='error-link'>
                     Retournez sur la page d'accueil
-                </NavLink>
+                </Link>
             </div>
         </section>
     )
